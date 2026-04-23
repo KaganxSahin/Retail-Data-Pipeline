@@ -61,3 +61,12 @@ python data_pipeline.py
 3. Çıktı dosyaları proje dizininde oluşturulacaktır:
    - `raw_sales_data.csv` — Hatalı satırları içeren orijinal veri seti
    - `clean_sales_data.csv` — Analiz için hazır temizlenmiş veri seti
+     
+## Pipeline Output / İşlem Çıktısı
+<img width="800" height="505" alt="image" src="https://github.com/user-attachments/assets/a0692904-a259-42b3-8fcd-23b02a9fbc21" />
+<img width="801" height="615" alt="image" src="https://github.com/user-attachments/assets/b0236de6-8a5d-4687-b052-89cfa88a88b7" />
+
+
+
+
+
